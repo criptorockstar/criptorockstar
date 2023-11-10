@@ -15,5 +15,6 @@
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
-- :nerd_face: Blockchain researcher.
+- :eye_speech_bubble: Blockchain researcher.
 - :thinking: Machine Learning teacher.
+- :iphone: Mobile Artisan
