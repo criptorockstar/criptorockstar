@@ -19,8 +19,6 @@
 - :teacher: Machine Learning teacher.
 - :iphone: Mobile Artisan
 
-<br/>
-
 ## Skills 🧑‍💻 :
 
 <br>
