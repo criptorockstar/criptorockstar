@@ -18,4 +18,5 @@
 - :eye_speech_bubble: Blockchain researcher.
 - :thinking: Machine Learning teacher.
 - :iphone: Mobile Artisan
-### Blogs posts
+
+### Skills
