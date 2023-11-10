@@ -19,4 +19,4 @@
 - :thinking: Machine Learning teacher.
 - :iphone: Mobile Artisan
 
-##<b>Skills</b>
+##Skills
