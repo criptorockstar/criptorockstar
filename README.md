@@ -22,6 +22,5 @@
 ### Skills
 
 - **Languages**:
-<br/>
 ![react](https://img.shields.io/badge/-ReactJS-0088cc?logo=react)
 ![rust](https://img.shields.io/badge/-Rust-cf4731?logo=rust)
