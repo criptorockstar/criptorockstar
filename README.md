@@ -25,7 +25,7 @@
 
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/sass.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/nextjs.png"/> <img src="https://img.icons8.com/?size=48&id=ZoxjA0jZDdFZ&format=png"/> <img src="https://img.icons8.com/?size=48&id=pCvIfmctRaY8&format=png"/> <img src="https://img.icons8.com/?size=48&id=9ESZMOeUioJS&format=png"/> <img src="https://img.icons8.com/?size=48&id=lRjcvhvtR81o&format=png"/> 
 
-<img src="https://img.icons8.com/?size=48&id=wSEBhXJoeGMK&format=png"/> <img src="https://img.icons8.com/?size=48&id=13101&format=png"/> 
+<img src="https://img.icons8.com/?size=48&id=je2Izz9b0gfD&format=png"/> <img src="https://img.icons8.com/?size=48&id=13101&format=png"/> 
 
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
 
