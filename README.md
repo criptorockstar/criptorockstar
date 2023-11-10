@@ -16,7 +16,7 @@
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :eye_speech_bubble: Blockchain researcher.
-- :thinking: Machine Learning teacher.
+- :teacher: Machine Learning teacher.
 - :iphone: Mobile Artisan
 
 ### Skills
