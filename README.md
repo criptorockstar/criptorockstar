@@ -22,5 +22,5 @@
 ### Skills
 
 - **Languages**:
-
-![react](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white](https://img.shields.io/badge/-ReactJS-0088cc?logo=react)https://img.shields.io/badge/-ReactJS-0088cc?logo=react)
+![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
+![react](https://img.shields.io/badge/-ReactJS-0088cc?logo=react)
