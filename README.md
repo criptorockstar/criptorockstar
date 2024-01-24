@@ -4,8 +4,10 @@
 </div>
 
 <div align="center">
-  <img  src="[https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg](https://github.com/criptorockstar/criptorockstar/blob/main/assets/grid-snake.svg)"
+  <a href="https://github.com/criptorockstar/criptorockstar/blob/main/assets/grid-snake.svg">
+  <img src="[https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg](https://github.com/criptorockstar/criptorockstar/blob/main/assets/grid-snake.svg)"
        alt="snake" /> 
+  </a>
 </div>
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
