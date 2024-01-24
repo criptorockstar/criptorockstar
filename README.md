@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/criptorockstar/criptorockstar/blob/main/resources/img/waving.gif">, I'm Jonny Sixx</h1>
+<h1 align="center">Hi <img width="35" src="https://github.com/criptorockstar/criptorockstar/blob/main/resources/img/waving.gif" alt="wave">, I'm Jonny Sixx</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=53F757&center=true&vCenter=true&random=false&width=435&lines=game+developer;blockchain+ambassador;backend+wizard;frontend+warrior;mobile+rogue" alt="Typing SVG" /></a>
 </div>
 
