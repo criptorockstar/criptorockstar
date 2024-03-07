@@ -84,6 +84,8 @@
   </a>
 </p>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=criptorockstar&theme=react-dark)](https://github.com/criptorockstar/github-readme-activity-graph)
+
 <br>
     
 ## Streaks 🔥:
