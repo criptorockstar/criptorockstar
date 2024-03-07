@@ -85,4 +85,15 @@
 
 ## Trophies 🏆 :
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=criptorockstar&theme=juicyfresh)](https://github.com/criptorockstar/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=criptorockstar&theme=juicyfresh&hide_border=true)](https://github.com/criptorockstar/github-profile-trophy)
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/criptorockstar/">
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=criptorockstar&theme=gruvbox&layout=compact&hide_border=true"
+  alt="criptorockstar :: Top Langs by repo" />
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=criptorockstar&theme=gruvbox&layout=compact&hide_border=true"
+  alt="criptorockstar :: Top Langs by commit" />
+  </a>
+</p>
