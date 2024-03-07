@@ -24,7 +24,7 @@
 ## Skills 🧑‍💻 :
 
 <br>
-<div >
+<div align="center">
 	<img width="48" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>
 	<img width="48" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/>
 	<img width="48" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" alt="Sass" title="Sass"/>
@@ -61,8 +61,8 @@
 	<img width="48" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627" alt="Arduino" title="Arduino"/>
     <img width="48" src="https://img.icons8.com/?size=48&id=t7vIvDXazOGO&format=png" alt="Rust" title="Rust"/>
     <img width="48" src="https://img.icons8.com/?size=48&id=50284&format=png" alt="Solidity" title="Solidity" />
-    <img width="48" src="https://img.icons7.com/?size=48&id=XrpVmPMACUYb&format=png" alt="" title=""/> 
-    <img width="48" src="https://img.icons8.com/?size=48&id=13101&format=png" alt="" title=""/>
+    <img width="48" src="https://img.icons8.com/?size=48&id=13101&format=png" alt="Move on SUI" title="Move on SUI"/>
+    <img width="48" src="https://img.icons8.com/?size=48&id=ewGOClUtmFX4&format=png" alt="Flask" title="Flask"/>
 </div>
 <br>
 
