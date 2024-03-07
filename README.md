@@ -71,6 +71,14 @@
 | <a href="https://github.com/criptorockstar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=criptorockstar&show_icons=true&include_all_commits=true&theme=gruvbox&hide_border=true" alt="criptorockstar's github stats" /></a> | <a href="https://github.com/criptorockstar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=criptorockstar&layout=compact&theme=gruvbox&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-## Streak Stats 🔥:
+<br>
+    
+## Streaks 🔥:
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=criptorockstar&theme=tokyonight_duo" alt="criptorockstar" /></p>
+
+<br>
+
+## Trophies 🏆 :
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=criptorockstar)](https://github.com/criptorockstar/github-profile-trophy)
