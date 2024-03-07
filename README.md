@@ -75,6 +75,9 @@
 | <a href="https://github.com/criptorockstar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=criptorockstar&show_icons=true&include_all_commits=true&theme=gruvbox&hide_border=true" alt="criptorockstar's github stats" /></a> | <a href="https://github.com/criptorockstar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=criptorockstar&layout=compact&theme=gruvbox&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+| <a href="https://github.com/criptorockstar/"><img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=criptorockstar&theme=gruvbox&layout=compact&hide_border=true" alt="criptorockstar :: Top Langs by repo" /></a> | <a href="https://github.com/criptorockstar/"><img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=criptorockstar&theme=gruvbox&layout=compact&hide_border=true" alt="criptorockstar :: Top Langs by commit" /></a> |
+| ------------- | ------------- |
+
 <br>
     
 ## Streaks 🔥:
@@ -89,11 +92,4 @@
 
 <br>
 
-<p align="center">
-  <a href="https://github.com/criptorockstar/">
-  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=criptorockstar&theme=gruvbox&layout=compact&hide_border=true"
-  alt="criptorockstar :: Top Langs by repo" />
-  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=criptorockstar&theme=gruvbox&layout=compact&hide_border=true"
-  alt="criptorockstar :: Top Langs by commit" />
-  </a>
-</p>
+
