@@ -11,6 +11,8 @@
   </a>
 </div>
 
+<br>
+
 <picture> <img align="right" src="https://github.com/criptorockstar/criptorockstar/blob/main/resources/img/Right_Side.gif?raw=true" width = 250px></picture>
 
 - :trophy: Blockchain Ambassador.
@@ -20,6 +22,8 @@
 - :coin: Blockchain researcher.
 - :teacher: Machine Learning teacher.
 - :iphone: Mobile Artisan
+
+<br>
 
 ## Skills 🧑‍💻 :
 
