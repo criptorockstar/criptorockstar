@@ -68,7 +68,7 @@
 
 ## Statistics 📊 :
 
-| <a href="https://github.com/criptorockstar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=criptorockstar&show_icons=true&include_all_commits=true&theme=gruvbox&hide_border=true" alt="criptorockstar's github stats" /></a> | <a href="https://github.com/criptorockstar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=criptorockstar&layout=compact&theme=gruvbox&hide_border=true" /></a> |
+| <a href="https://github.com/criptorockstar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=criptorockstar&show_icons=true&include_all_commits=true&theme=juicyfresh&hide_border=true" alt="criptorockstar's github stats" /></a> | <a href="https://github.com/criptorockstar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=criptorockstar&layout=compact&theme=juicyfresh&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <br>
@@ -81,4 +81,4 @@
 
 ## Trophies 🏆 :
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=criptorockstar)](https://github.com/criptorockstar/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=criptorockstar&theme=juicyfresh)](https://github.com/criptorockstar/github-profile-trophy)
