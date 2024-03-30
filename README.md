@@ -81,7 +81,7 @@
 	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=criptorockstar&layout=compact&theme=gruvbox&hide_border=true" />	
 	</a>
 </p>
-
+<br>
 <p align="center">
   <a href="https://github.com/criptorockstar/">
   <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=criptorockstar&theme=gruvbox&layout=compact&hide_border=true"
