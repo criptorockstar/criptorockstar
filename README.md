@@ -73,10 +73,9 @@
 ## Statistics 📊 :
 
 <p align="center">
-	<a href="https://github.com/criptorockstar/github-readme-stats">
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=criptorockstar&show_icons=true&include_all_commits=true&theme=gruvbox&hide_border=true" alt="criptorockstar's github stats" />
+<a href="https://github.com/criptorockstar/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=criptorockstar&show_icons=true&include_all_commits=true&theme=gruvbox&hide_border=true" alt="criptorockstar's github stats" />
 </p>
-<br>
 <p align="center">
   <a href="https://github.com/criptorockstar/">
   <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=criptorockstar&theme=gruvbox&layout=compact&hide_border=true"
