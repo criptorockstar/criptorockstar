@@ -86,6 +86,8 @@
   <a href="https://github.com/criptorockstar/">
   <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=criptorockstar&theme=gruvbox&layout=compact&hide_border=true"
   alt="criptorockstar :: Top Langs by repo" />
+  </a>
+  <a>
   <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=criptorockstar&theme=gruvbox&layout=compact&hide_border=true"
   alt="criptorockstar :: Top Langs by commit" />
   </a>
