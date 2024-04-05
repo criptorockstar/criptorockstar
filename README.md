@@ -87,7 +87,7 @@
   </a>
 </p>
 
-## Most used techs
+## Tech stacks 💻:
 <p align="center">
 </a>
 <br><br>
