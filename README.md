@@ -70,6 +70,14 @@
 </div>
 <br>
 
+<p align="center">
+</a>
+<br><br>
+<a href="https://github.com/criptorockstar/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=criptorockstar&layout=compact&theme=gruvbox&hide_border=true" />	
+</a>
+</p>
+
 ## Statistics 📊 :
 
 <p align="center">
@@ -86,16 +94,7 @@
   alt="criptorockstar :: Top Langs by commit" />
   </a>
 </p>
-
-## Tech stacks 💻:
-<p align="center">
-</a>
-<br><br>
-<a href="https://github.com/criptorockstar/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=criptorockstar&layout=compact&theme=gruvbox&hide_border=true" />	
-</a>
-</p>
-    
+	
 ## Streaks 🔥:
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=criptorockstar&theme=tokyonight_duo" alt="criptorockstar" /></p>
