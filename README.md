@@ -74,7 +74,7 @@
 </a>
 <br><br>
 <a href="https://github.com/criptorockstar/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=criptorockstar&layout=compact&theme=gruvbox&hide_border=true" />	
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=criptorockstar&layout=compact&theme=codeSTACKr&hide_border=true" />	
 </a>
 </p>
 
